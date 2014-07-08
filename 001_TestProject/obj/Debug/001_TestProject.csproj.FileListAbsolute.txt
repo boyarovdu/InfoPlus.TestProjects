@@ -1,0 +1,9 @@
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\bin\001_TestProject.dll
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\bin\001_TestProject.pdb
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\bin\Telerik.Web.Design.dll
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\bin\Telerik.Web.UI.dll
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\bin\Telerik.Web.UI.Skins.dll
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\bin\Telerik.Web.UI.xml
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\obj\Debug\001_TestProject.csprojResolveAssemblyReference.cache
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\obj\Debug\001_TestProject.dll
+c:\users\d.boyarov\documents\visual studio 2012\Projects\TestProjects\001_TestProject\obj\Debug\001_TestProject.pdb

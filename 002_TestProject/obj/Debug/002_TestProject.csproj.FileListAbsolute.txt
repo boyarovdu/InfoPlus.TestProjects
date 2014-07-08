@@ -1,0 +1,8 @@
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\obj\Debug\002_TestProject.csprojResolveAssemblyReference.cache
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\bin\002_TestProject.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\bin\002_TestProject.pdb
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\bin\Telerik.Web.Design.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\bin\Telerik.Web.UI.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\bin\Telerik.Web.UI.xml
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\obj\Debug\002_TestProject.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\002_TestProject\obj\Debug\002_TestProject.pdb

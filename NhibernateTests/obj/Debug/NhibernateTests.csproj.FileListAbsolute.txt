@@ -1,0 +1,17 @@
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\obj\Debug\NhibernateTests.csprojResolveAssemblyReference.cache
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\FirstSample.sdf
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\NhibernateTests.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\NhibernateTests.pdb
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\Domain.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\Iesi.Collections.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\NHibernate.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\Domain.pdb
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\Iesi.Collections.xml
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\NHibernate.xml
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\obj\Debug\NhibernateTests.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\obj\Debug\NhibernateTests.pdb
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\hibernate.cfg.xml
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\Mappings\Product.hbm.xml
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\nunit.framework.dll
+C:\Users\D.Boyarov\Documents\Visual Studio 2012\Projects\TestProjects\NhibernateTests\bin\Debug\nunit.framework.xml
